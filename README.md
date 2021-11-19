@@ -21,7 +21,8 @@ BEFORE : % Overall Passing was 90
 AFTER: % Overall Passing was 65
 
 # 3.How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-    Replacing ninth graders’ math and reading scores affect Thomas High School’s performance between the other schools, Relative ranking for Thomas High School changed from 2nd place to 8th 
+   Replacing ninth graders’ math and reading scores affect Thomas High School’s performance between the other schools.
+   Relative ranking for Thomas High School changed from 2nd place to 8th 
 
 # 4. How does replacing the ninth-grade scores affect the following:
     4.1 Math and reading scores by grade
