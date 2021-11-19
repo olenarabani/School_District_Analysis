@@ -23,7 +23,7 @@
     
     4) % Passing Reading 85.7
    
-   5) % Overall Passing 64.9
+    5) % Overall Passing 64.9
   
 # 2. How is the school summary affected?  
 
