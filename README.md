@@ -5,20 +5,30 @@
  # 1. How is the district summary affected?
   BEFORE:
     1) Average Math Score = 79.0
+    
     2) Average Reading Score = 81.9
+    
     3) % Passing Math 75
+    
     4) % Passing Reading 86
+    
     5) % Overall Passing 65
+  
   AFTER:
     1) Average Math Score = 78.9
+    
     2) Average Reading Score = 81.9
+    
     3) % Passing Math 74.8
+    
     4) % Passing Reading 85.7
-    5) % Overall Passing 64.9
+   
+   5) % Overall Passing 64.9
   
 # 2. How is the school summary affected?  
 
 BEFORE : % Overall Passing was 90
+
 AFTER: % Overall Passing was 65
 
 # 3.How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
