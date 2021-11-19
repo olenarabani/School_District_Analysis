@@ -28,28 +28,28 @@ AFTER: % Overall Passing was 65
 
 # 4. How does replacing the ninth-grade scores affect the following:
     
-    4.1 Math and reading scores by grade
-          Math and Reading Scores from Thomas High School 9th Grade set to "nan" and equivalent to 0.
-          Math and Reading Scores from Thomas High School 9th Grade means all of them failed (set to fail for analysis).
-          Doing that, the only significantly score affected was minimal in a very small in quantity.
-          Student count() Before: 1635
-          Student count() After: 1174
+  4.1 Math and reading scores by grade
+      Math and Reading Scores from Thomas High School 9th Grade set to "nan" and equivalent to 0.
+      Math and Reading Scores from Thomas High School 9th Grade means all of them failed (set to fail for analysis).
+      Doing that, the only significantly score affected was minimal in a very small in quantity.
+      Student count() Before: 1635
+      Student count() After: 1174
     
-    4.2 Scores by school spending
-          Thomas HS is in the spending bucket "$630-644"
-          Math and Reading Scores from Thomas High School 9th Grade means all of them failed (set to fail for analysis).
-          Doing that, the only significantly score affected was minimal in a very small in quantity.
-          Student count() Before: 1635
-          Student count() After: 1174
+  4.2 Scores by school spending
+      Thomas HS is in the spending bucket "$630-644"
+      Math and Reading Scores from Thomas High School 9th Grade means all of them failed (set to fail for analysis).
+      Doing that, the only significantly score affected was minimal in a very small in quantity.
+      Student count() Before: 1635
+      Student count() After: 1174
     
-    4.3 Scores by school size
-          Removing Thomas High School 9th Grade reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for size bucket.
-          Removing Students from Thomas High School 9th Grade reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for spending bucket "$630-644"
-          Thomas High School is allocated on Spending Bin "$630-644" (image below)
+  4.3 Scores by school size
+      Removing Thomas High School 9th Grade reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for size bucket.
+      Removing Students from Thomas High School 9th Grade reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing" scores for spending bucket "$630-644"
+      Thomas High School is allocated on Spending Bin "$630-644" (image below)
    
-   4.4 Scores by school type
-          Thomas High School is in the "CHARTER" type
-          Removing Thomas High School 9th Grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing"
+  4.4 Scores by school type
+      Thomas High School is in the "CHARTER" type
+      Removing Thomas High School 9th Grade scores reduces the "% Passing Math", "% Passing Reading" and "% Overall Passing"
           
           
 # Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
